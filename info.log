@@ -7,3 +7,4 @@
 {"level":"warn","message":"POST /api/users 400 15ms","meta":{}}
 {"level":"warn","message":"POST /api/users 400 2ms","meta":{}}
 {"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"Your server is listening on port 3000"}
