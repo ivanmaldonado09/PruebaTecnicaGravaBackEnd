@@ -7,7 +7,7 @@
     "test-lint": "eslint ./lib",
     "test-mocha": "mocha --exit tests/**/*",
     "test-mocha-with-coverage": "nyc npm run test-mocha",
-    "dev": "nodemon --exec babel-node ./bin/init.js"
+    "dev": "nodemon ./bin/init.js"
   },
   "dependencies": {
     "body-parser": "^1.20.2",
