@@ -1,2 +1,3 @@
 {"level":"info","message":"Your server is listening on port 3000"}
 {"level":"warn","message":"POST /api/v1/users 404 13ms","meta":{}}
+{"level":"warn","message":"POST /users 404 0ms","meta":{}}
