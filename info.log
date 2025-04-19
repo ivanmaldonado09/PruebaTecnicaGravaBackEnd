@@ -59,3 +59,8 @@
 {"level":"info","message":"GET /api/users/6802fdaa132b9c556f3d8a4e 200 11ms","meta":{}}
 {"level":"info","message":"GET /api/users/6802fdfd132b9c556f3d8a52 200 4ms","meta":{}}
 {"level":"warn","message":"GET /api/users/6802fdfd132b9c556f3d8a50 400 2ms","meta":{}}
+{"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"Your server is listening on port 3000"}
