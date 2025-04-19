@@ -28,3 +28,13 @@
 {"level":"info","message":"GET /api/users?ordenarPor=email 200 19ms","meta":{}}
 {"level":"info","message":"GET /api/users?ordenarPor=nombre 200 5ms","meta":{}}
 {"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"GET /api/users?ordenarPor=nombre 200 19ms","meta":{}}
+{"level":"info","message":"GET /api/users?ordenarPor=dni 200 4ms","meta":{}}
+{"level":"info","message":"GET /api/users?ordenarPor=nombre 200 6ms","meta":{}}
+{"level":"info","message":"GET /api/users?ordenarPor=name 200 6ms","meta":{}}
+{"level":"info","message":"GET /api/users?ordenarPor=userInformation 200 6ms","meta":{}}
+{"level":"info","message":"GET /api/users?sortBy=dni 200 4ms","meta":{}}
+{"level":"info","message":"GET /api/users?sortBy=name 200 4ms","meta":{}}
+{"level":"info","message":"GET /api/users?sortBy=email 200 4ms","meta":{}}
+{"level":"info","message":"GET /api/users?sortBy=color 200 3ms","meta":{}}
