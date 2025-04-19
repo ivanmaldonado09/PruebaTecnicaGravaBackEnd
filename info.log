@@ -40,3 +40,9 @@
 {"level":"info","message":"GET /api/users?sortBy=color 200 3ms","meta":{}}
 {"level":"info","message":"Your server is listening on port 3000"}
 {"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"Your server is listening on port 3000"}
+{"level":"warn","message":"GET /api/users/6802fdfd132b9c556f3d8a52/disable 404 2ms","meta":{}}
+{"level":"info","message":"POST /api/users/6802fdfd132b9c556f3d8a52/disable 200 29ms","meta":{}}
+{"level":"warn","message":"POST /api/users/6802fdfd132b9c556f3d8a52/disable 400 3ms","meta":{}}
+{"level":"warn","message":"POST /api/users/6802fdfd132b9c556f3d8a52/disable 400 2ms","meta":{}}
