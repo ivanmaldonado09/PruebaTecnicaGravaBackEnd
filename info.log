@@ -14,3 +14,8 @@
 {"level":"error","message":"POST /api/users 500 17ms","meta":{}}
 {"level":"info","message":"Your server is listening on port 3000"}
 {"level":"info","message":"POST /api/users 201 34ms","meta":{}}
+{"level":"info","message":"POST /api/users 201 10ms","meta":{}}
+{"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"Your server is listening on port 3000"}
