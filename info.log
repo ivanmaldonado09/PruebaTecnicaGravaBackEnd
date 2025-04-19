@@ -21,3 +21,10 @@
 {"level":"info","message":"Your server is listening on port 3000"}
 {"level":"info","message":"Your server is listening on port 3000"}
 {"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"GET /api/users?ordenarPor=email 200 31ms","meta":{}}
+{"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"GET /api/users?ordenarPor=email 200 19ms","meta":{}}
+{"level":"info","message":"GET /api/users?ordenarPor=nombre 200 5ms","meta":{}}
+{"level":"info","message":"Your server is listening on port 3000"}
