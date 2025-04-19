@@ -72,3 +72,9 @@
 {"level":"info","message":"GET /api/users/6802fdaa132b9c556f3d8a4e 200 5ms","meta":{}}
 {"level":"error","message":"PATCH /users/:id - error: User validation failed: color: `violet` is not a valid enum value for path `color`."}
 {"level":"error","message":"PATCH /api/users/6802fdaa132b9c556f3d8a4e 500 4ms","meta":{}}
+{"level":"info","message":"Your server is listening on port 3000"}
+{"level":"warn","message":"PATCH /api/users/6802fdaa132b9c556f3d8a4e 400 15ms","meta":{}}
+{"level":"info","message":"PATCH /api/users/6802fdaa132b9c556f3d8a4e 200 18ms","meta":{}}
+{"level":"info","message":"PATCH /api/users/6802fdaa132b9c556f3d8a4e 200 5ms","meta":{}}
+{"level":"info","message":"PATCH /api/users/6802fdaa132b9c556f3d8a4e 200 5ms","meta":{}}
+{"level":"info","message":"PATCH /api/users/6802fdaa132b9c556f3d8a4e 200 5ms","meta":{}}
