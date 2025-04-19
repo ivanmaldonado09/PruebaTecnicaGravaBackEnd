@@ -64,3 +64,11 @@
 {"level":"info","message":"Your server is listening on port 3000"}
 {"level":"info","message":"Your server is listening on port 3000"}
 {"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"Your server is listening on port 3000"}
+{"level":"info","message":"Your server is listening on port 3000"}
+{"level":"warn","message":"GET /api/users/6802fdfd132b9c556f3d8a50 400 9ms","meta":{}}
+{"level":"info","message":"GET /api/users/6802fdaa132b9c556f3d8a4e 200 12ms","meta":{}}
+{"level":"info","message":"PATCH /api/users/6802fdaa132b9c556f3d8a4e 200 38ms","meta":{}}
+{"level":"info","message":"GET /api/users/6802fdaa132b9c556f3d8a4e 200 5ms","meta":{}}
+{"level":"error","message":"PATCH /users/:id - error: User validation failed: color: `violet` is not a valid enum value for path `color`."}
+{"level":"error","message":"PATCH /api/users/6802fdaa132b9c556f3d8a4e 500 4ms","meta":{}}

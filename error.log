@@ -1,2 +1,4 @@
 {"level":"error","message":"POST /api/users 500 27ms","meta":{}}
 {"level":"error","message":"POST /api/users 500 17ms","meta":{}}
+{"level":"error","message":"PATCH /users/:id - error: User validation failed: color: `violet` is not a valid enum value for path `color`."}
+{"level":"error","message":"PATCH /api/users/6802fdaa132b9c556f3d8a4e 500 4ms","meta":{}}
